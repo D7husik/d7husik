@@ -1,5 +1,14 @@
-## Hi there 👋
 
+<h1 align="center"> Dzhusik 🥷</h1>
+<h3 align="center" style="margin-bottomL 10px">Software Engineer | Back-End Developer | Python Enthusiast </h3>
+
+
+
+
+
+<p align="left" style="margin-bottom: 10px;"> 🔭 I’m currently working on 🥷SecretProject🥷</p>
+<p align="left" style="margin-top: 10px;"> 🌱 I’m learning Python/Java/Ml</p>
+<p align="left"> 👯 I’m looking to collaborate on ML/BACKEND</p>
 <!--
 **D7husik/d7husik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

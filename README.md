@@ -1,8 +1,9 @@
 
-<h1 align="center"> Dzhusik 🥷</h1>
-<h3 align="center" style="margin-bottomL 10px">Software Engineer | Back-End Developer | Python Enthusiast </h3>
+<h2 align="left"> Halo 👋! I'm Dzhusik 🥷.
+<br><br> Passionate About Competative Programming and Creating Mastrepieces.</h2>
+<h3 align="left" style="margin-bottomL 10px">Software Engineer | Back-End Developer | Python Enthusiast </h3>
 
-<div align="middle">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -32,19 +33,28 @@
 </div>
 
 
+<br>
+
+
+<p align="left" style="margin-bottom: 10px;"> 🔭 I’m currently working on 🥷SecretProject🥷</p>
+<p align="left" style="margin-top: 10px;"> 🌱 I’m learning Python/Java/Ml</p>
+<p align="left"> 👯 I’m looking to collaborate on ML/BACKEND</p> 
+
+
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d7husik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div> 
+
+
+
+
+
 
 
           
 
 
-<p align="left" style="margin-bottom: 10px;"> 🔭 I’m currently working on 🥷SecretProject🥷</p>
-<p align="left" style="margin-top: 10px;"> 🌱 I’m learning Python/Java/Ml</p>
-<p align="left"> 👯 I’m looking to collaborate on ML/BACKEND</p>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d7husik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 
 <!--
@@ -69,3 +79,18 @@ Here are some ideas to get you started:
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=d7husik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
+
+
+<!-- <div align="right ">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d7husik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+
+<p align="left" style="margin-bottom: 10px;"> 🔭 I’m currently working on 🥷SecretProject🥷</p>
+<p align="left" style="margin-top: 10px;"> 🌱 I’m learning Python/Java/Ml</p>
+<p align="left"> 👯 I’m looking to collaborate on ML/BACKEND</p> -->
+
+
+<!-- <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d7husik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div> -->

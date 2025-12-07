@@ -42,10 +42,10 @@
 
 
 
-<img 
+<!-- <img 
   src="https://github-readme-stats.vercel.app/api/top-langs?username=d7husik&layout=compact&theme=dracula&langs_count=5" 
   alt="Top Languages" 
-/>
+/> -->
 
 
 
